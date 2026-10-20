@@ -23,6 +23,13 @@ namespace Mohamed_Ateto_TrailA.Mapping
 
             CreateMap<CanditateProfile, CandidateDTO>().ReverseMap();
             CreateMap<CanditateProfile, UpdateCandidateProfileDTO>().ReverseMap();
+
+
+
+
+
+
+            /////  new changes in master 
         
         }
     }
